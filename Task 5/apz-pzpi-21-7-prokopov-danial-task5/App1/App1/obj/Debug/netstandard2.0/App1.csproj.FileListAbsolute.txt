@@ -1,0 +1,57 @@
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\Views\FlightsPage.xaml.g.cs
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\University\Portfolio\For_Testing\Курсовые\3 course\Илья\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\Views\FlightsPage.xaml.g.cs
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\Views\FlightDetailPage.xaml.g.cs
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\Views\CodesPage.xaml.g.cs
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\Views\CodeDetailsPage.xaml.g.cs
+D:\University\Portfolio\For_Testing\Courses\3_course\Ilia\Mobile\App1\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\Views\CodeDetailsPage.xaml.g.cs
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\Views\CodesPage.xaml.g.cs
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\Views\FlightDetailPage.xaml.g.cs
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\Views\FlightsPage.xaml.g.cs
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\refint\App1.dll
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\Admin\Desktop\Курс + Лабы\Mobile\App1\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
