@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TmBM4+zKA0ybSXtCEw3PJ47p2z5CeTzACXm8DtYfvZkPRGeQQC1JWWpobXKDahmTmPbEWWNdYPXffvufo/4zQw==",
+  "dgSpecHash": "tY4J0jUfqSnWK3LlJaD5QLU3tHU2HMQ1qc7Peeg674d6zE0nhend7uB2JxwCCSjvwrb81ejKKioKnikWHlYMWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Курс + Лабы\\AirTrack\\AirTrack\\AirTrack.csproj",
+  "projectFilePath": "D:\\Kurs\\apzkr-pzpi-21-7-Prokopov-Danial\\Task 2\\apz-pzpi-21-7-prokopov-danial-task2\\AirTrack\\AirTrack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\barcode\\2024.5.3\\barcode.2024.5.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\barcode.slim\\2024.5.3\\barcode.slim.2024.5.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Курс + Лабы\\AirTrack\\AirTrack\\AirTrack.csproj": {}
+    "D:\\Kurs\\apzkr-pzpi-21-7-Prokopov-Danial\\Task 2\\apz-pzpi-21-7-prokopov-danial-task2\\AirTrack\\AirTrack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Курс + Лабы\\AirTrack\\AirTrack\\AirTrack.csproj": {
+    "D:\\Kurs\\apzkr-pzpi-21-7-Prokopov-Danial\\Task 2\\apz-pzpi-21-7-prokopov-danial-task2\\AirTrack\\AirTrack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Курс + Лабы\\AirTrack\\AirTrack\\AirTrack.csproj",
+        "projectUniqueName": "D:\\Kurs\\apzkr-pzpi-21-7-Prokopov-Danial\\Task 2\\apz-pzpi-21-7-prokopov-danial-task2\\AirTrack\\AirTrack.csproj",
         "projectName": "AirTrack",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Курс + Лабы\\AirTrack\\AirTrack\\AirTrack.csproj",
+        "projectPath": "D:\\Kurs\\apzkr-pzpi-21-7-Prokopov-Danial\\Task 2\\apz-pzpi-21-7-prokopov-danial-task2\\AirTrack\\AirTrack.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Курс + Лабы\\AirTrack\\AirTrack\\obj\\",
+        "outputPath": "D:\\Kurs\\apzkr-pzpi-21-7-Prokopov-Danial\\Task 2\\apz-pzpi-21-7-prokopov-danial-task2\\AirTrack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VS2\\NuGetPackages"
