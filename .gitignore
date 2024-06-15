@@ -1,10 +1,10 @@
-.bin
+bin
 
-.node_modules
+node_modules
 
-.obj
+obj
 
-.target
+target
 
 *.d
 
@@ -32,10 +32,10 @@
 *.out
 *.app
 
-..cache
+.cache
 
-.typescript
+typescript
 
-.debug
+debug
 
-.objects
+objects
