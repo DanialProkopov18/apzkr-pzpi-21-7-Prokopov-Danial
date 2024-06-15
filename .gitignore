@@ -1,41 +1,16 @@
-bin
+# Ignore binary directories
+bin/
+obj/
 
-node_modules
+# Ignore node_modules directory
+node_modules/
 
-obj
+target/
 
-target
+.cache/
 
-*.d
+typescript/
 
-*.slo
-*.lo
-*.o
-*.obj
+debug/
 
-*.gch
-*.pch
-
-*.so
-*.dylib
-*.dll
-
-*.mod
-*.smod
-
-*.lai
-*.la
-*.a
-*.lib
-
-*.exe
-*.out
-*.app
-
-.cache
-
-typescript
-
-debug
-
-objects
+objects/
